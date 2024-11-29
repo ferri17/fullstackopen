@@ -44,7 +44,7 @@ const App = () => {
     }
     return (maxIndex)
   })()
-
+  
   return (
     <div>
       <h1>Anecdote of the day</h1>
